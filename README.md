@@ -17,3 +17,7 @@ A menu-driven Python application that converts fundamental physics units across 
 1. Clone or download the repository
 2. Open a terminal in the project folder
 3. Run:
+
+
+This project is yet to be scaled up as a Web application with interactive User Interface.
+The current version is the prototype holding only the backend logic.
